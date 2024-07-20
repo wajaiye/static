@@ -247,3 +247,25 @@ footer {
         font-size: 1rem;
     }
 }
+
+/* Styles for Privacy Policy and FAQ pages */
+.policy-content, .faq-content {
+    padding: 2rem 0;
+}
+
+.policy-content h2, .faq-content h2 {
+    margin-bottom: 1.5rem;
+}
+
+.policy-content h3, .faq-content h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.faq-item {
+    margin-bottom: 1.5rem;
+}
+
+.faq-item h3 {
+    color: #2989d8;
+}
